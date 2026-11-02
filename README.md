@@ -26,5 +26,5 @@ Lab 01: Inspecting Plaintext HTTP traffic (info.cern.ch)
   
 * **The human side:** Users will click anything without inspecting what they are clicking first. Security architecture can't rely on human caution; networks and browsers have to enforce automated redirects and HSTS (HTTP Strict Transport Security) to protect users from their own habits.
 
-
-
+#### Wireshark capture
+![Wireshark TCP stream showing plaintext HTTP traffic from CERN](./wireshark%20cern%20traffic.png)
