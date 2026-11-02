@@ -8,7 +8,7 @@ I'm Peter and I am an honors Cybersecurity student at Temple University. I am se
 
 ### Projects & Labs I've worked on include:
 
-- **[cybersecurity-defense-labs](https://github.com/Peterb0921/Network-Security-Labs)**: Hands-on defense and network analysis labs documenting packet decodes, TCP stream reassembly, and Nmap service enumeration.
+- **[cybersecurity-defense-labs](https://github.com/Peterb0921/Network-Security-Labs)**: Hands-on defense and network analysis labs documenting my progression toward industry security engineering and defense roles
 - **[kkachi-cal](https://github.com/Peterb0921/kkachi-cal)**: A customizable calendar wallpaper generator inspired by LifeCal, built with responsive layouts for phones, tablets, and laptops.
 
 ---
