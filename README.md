@@ -9,7 +9,7 @@ I'm Peter and I am an honors Cybersecurity student at Temple University. I am se
 ### Projects & Labs I've worked on include:
 
 - **[cybersecurity-defense-labs](https://github.com/Peterb0921/Network-Security-Labs)**: Hands-on defense and network analysis labs documenting packet decodes, TCP stream reassembly, and Nmap service enumeration.
-- **[kkachi-cal](https://github.com/Peterb0921/kkachi-cal)**: [Add a one-sentence description of what kkachi-cal does here].
+- **[kkachi-cal](https://github.com/Peterb0921/kkachi-cal)**: A customizable calendar wallpaper generator inspired by LifeCal, built with responsive layouts for phones, tablets, and laptops.
 - **DawCam Engine**: Real-time cross-platform audio-reactive camera tool written in modern C++ with an IPC bridging layer.
 - **Custom Handheld Firmware Modding**: Hardware configuration, kernel patching, and homebrew optimization across legacy handheld systems.
 
