@@ -2,7 +2,7 @@
 
 I'm Peter and I am an honors Cybersecurity student at Temple University. I am seeking internship and early-career opportunities where I can apply hands-on defensive security, network traffic analysis, and secure software development. I am also interested in audio software development and behavioral cybersecurity.
 
-🌱 **Currently working on:** [DawCam](https://up2uplugins.com/) — A webcam and video tool built right into your DAW, inspired by retro handheld consoles. Snap photos, capture footage, and edit video clips that react directly to your music.
+🌱 **Currently working on:** [DawCam](https://up2uplugins.com/) — A webcam and video tool built right into your DAW, inspired by retro handheld consoles. Take photos, videos, and edit clips that react directly to your music.
 
 ---
 
